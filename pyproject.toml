@@ -9,3 +9,16 @@ author-email = "nuxion@gmail.com"
 home-page = "https://github.com/nuxion"
 license = "MPL-2.0"
 
+requires = [
+    "certifi>=2018.10.15",
+    "chardet>=3.0.4",
+    "Click>=7.0",
+    "docutils>=0.14",
+    "idna>=2.7",
+    "requests>=2.20.1",
+    "urllib3>=1.24.1"
+]
+description-file="README.md"
+
+[tool.flit.scripts]
+diach = "diach.cli:cli"

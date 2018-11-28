@@ -1,0 +1,9 @@
+README.md
+setup.py
+Diach.egg-info/PKG-INFO
+Diach.egg-info/SOURCES.txt
+Diach.egg-info/dependency_links.txt
+Diach.egg-info/entry_points.txt
+Diach.egg-info/top_level.txt
+diach/__init__.py
+diach/cli.py
