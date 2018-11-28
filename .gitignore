@@ -1,0 +1,4 @@
+.diach
+*.pyc
+__pycache__
+*.swp

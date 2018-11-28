@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "diach"
+author = "Xavier Petit"
+author-email = "nuxion@gmail.com"
+home-page = "https://github.com/nuxion"
+license = "MPL-2.0"
+
